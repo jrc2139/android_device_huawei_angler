@@ -164,4 +164,6 @@ BOARD_HARDWARE_CLASS := \
     hardware/cyanogen/cmhw \
     device/huawei/angler/cmhw
 
+WITH_DEXPREOPT := true
+
 -include vendor/huawei/angler/BoardConfigVendor.mk
